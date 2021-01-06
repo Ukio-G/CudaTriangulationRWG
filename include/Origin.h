@@ -1,0 +1,12 @@
+//
+// Created by ukio on 25.12.2020.
+//
+
+#ifndef IMGUI_SFML_APPLICATION_ORIGIN_H
+#define IMGUI_SFML_APPLICATION_ORIGIN_H
+
+
+
+
+
+#endif //IMGUI_SFML_APPLICATION_ORIGIN_H
